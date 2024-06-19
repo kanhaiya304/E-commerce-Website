@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-https://github.com/kanhaiya304/E-commerce-Website/blob/main/E-Commerce%20-%20Google%20Chrome%202023-12-18%2017-46-42(0).mp4
+https://github.com/kanhaiya304/E-commerce-Website/assets/133117538/c1f6df3d-fb1e-4619-8699-0978a589d4f3
 
 This repository contains the source code for an E-commerce website developed during my first Angular Developer Internship. The project showcases my ability to build a fully functional e-commerce platform using Angular, along with various features and integrations to enhance the user experience.
 
